@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Excersie 1
 
-> One paragraph statement about the project.
+> Creating first repository with Linter, separate commits and a HTML and CSS file
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Linter
 
 ## Live Demo
 
@@ -43,17 +43,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 Sergiocortessat
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/sergiocortessat)
+- Twitter: [@twitterhandle](https://twitter.com/sergiocortessat)
+- LinkedIn: [LinkedIn](https://linkedin.com/sergiocortessat)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
